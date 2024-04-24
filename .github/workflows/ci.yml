@@ -1,0 +1,13 @@
+name: Test merge_queue
+
+on:
+  pull_request:
+  merge_group:
+
+jobs:
+  success:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Success
+        run: |
+          echo "Success"
