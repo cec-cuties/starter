@@ -11,3 +11,4 @@ jobs:
       - name: Success
         run: |
           echo "Success"
+          echo "Hello world"
