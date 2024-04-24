@@ -1,8 +1,7 @@
 {
   "name": "starter",
-  "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "version": "1.0",
+  "author": "Errol",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
